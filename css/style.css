@@ -274,6 +274,10 @@ form{
     width: 100%;
 }
 
+.list-style{
+    color: white;
+}
+
   
   /* Clear floats after the columns */
   .row:after {
